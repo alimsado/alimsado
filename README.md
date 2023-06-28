@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Network Automation**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-alidoski&layout=compact)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +21,6 @@
 </p>
 
 
-
-![eng-alidoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-alidoski&theme=city_lights&show_icons=true)
 
 <a href="https://github.com/eng-alidoski/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eng-alidoski" />

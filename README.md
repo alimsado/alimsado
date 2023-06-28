@@ -20,4 +20,4 @@
 </p>
 
 ![eng-alidoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-alidoski&theme=city_lights&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-alidoski)](https://github.com/eng-alidoski/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-alidoski&layout=compact)

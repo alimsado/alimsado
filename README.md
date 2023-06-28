@@ -26,3 +26,9 @@
 
 ![eng-alidoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-alidoski&theme=city_lights&show_icons=true)
 
+<a href="https://github.com/eng-alidoski/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eng-alidoski" />
+</a>
+<a href="https://github.com/eng-alidoski/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-alidoski&layout=compact&langs_count=8&card_width=320" />
+</a>

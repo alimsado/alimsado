@@ -1,6 +1,6 @@
 <h3 align="center">IP Network Engineer @ DIL Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-alidoski&label=Profile%20views&color=0e75b6&style=flat" alt="alimsado" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimsado&label=Profile%20views&color=0e75b6&style=flat" alt="alimsado" /> </p>
 
 - 🌱 I’m currently learning **Network Automation**
 

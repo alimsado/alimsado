@@ -21,8 +21,8 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-alidoski&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimsado&layout=compact)
 
 
 
-![AliDoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-alidoski&show_icons=true&theme=algolia)
+![AliDoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimsado&show_icons=true&theme=algolia)
